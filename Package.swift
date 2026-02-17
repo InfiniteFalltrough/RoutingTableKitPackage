@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RoutingTableKit",
-            url: "https://github.com/InfiniteFalltrough/RoutingTableKitPackage/releases/download/v0.1.9/RoutingTableKit.xcframework.zip",
-            checksum: "422ede431b15df9d3ebb1105e208f7fb53aa151c37927ceac66dc1a43fd4e811"
+            url: "https://github.com/InfiniteFalltrough/RoutingTableKitPackage/releases/download/v0.1.10/RoutingTableKit.xcframework.zip",
+            checksum: "83bea14daf7ee278d696227f8fd9c1033b6dd5e9c41c130af492409faa3bd717"
         )
     ]
 )
